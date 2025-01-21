@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **Python & Machine Learning**
 
-- 🌱 **Django** Learnet
+- 🌱 **Django** Learner
   
 - 🔭 DM me for **Final Year Projects**
   
