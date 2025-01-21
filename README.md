@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donyfranklin&label=Profile%20views&color=0e75b6&style=flat" alt="donyfranklin" /> </p>
 
 
-- 🔭 I’m currently working on **Python & Machine Learning**
+- 🔭 Currently working on **Python & Machine Learning**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 **Django** Learnet
   
 - 🔭 DM me for **Final Year Projects**
   
-- 🤝 I’m looking for help with **Data science**
+- 🤝 Looking for help with **Data science**
 
 - 💬 Ask me about **python,Flask,Tkinter**
 
