@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **doniefranklin@gmail.com**
 
-- ⚡ Fun fact **My biggest role model is me**
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
