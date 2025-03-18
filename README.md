@@ -12,11 +12,9 @@
 
 - 🌱 **Django** Learner
   
-- 🔭 DM me for **Final Year Projects**
-  
-- 🤝 Looking for help with **Data science**
+- 🔭 DM me for **Web application,Mobile App,Softwares & Clg Projects**
 
-- 💬 Ask me about **python,Flask,Tkinter**
+- 💬 Ask me about **python,Flask,Tkinter,ML,AI,RPA,**
 
 - 📫 How to reach me **doniefranklin@gmail.com**
 
